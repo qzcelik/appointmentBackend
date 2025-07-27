@@ -134,3 +134,11 @@
 /Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/obj/Debug/net8.0/RandevuBackend.pdb
 /Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/obj/Debug/net8.0/RandevuBackend.genruntimeconfig.cache
 /Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/obj/Debug/net8.0/ref/RandevuBackend.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ibo/Desktop/RandevuWebApp/backend/RandevuBackend/RandevuBackend/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
