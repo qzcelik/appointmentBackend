@@ -1,0 +1,6 @@
+@RandevuBackend_HostAddress = http://localhost:5067
+
+GET {{RandevuBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
